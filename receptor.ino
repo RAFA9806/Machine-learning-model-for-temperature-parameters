@@ -6,8 +6,8 @@
 #define LORA_TX 17  // Conectado al RX del módulo LoRa
 
 // Datos WiFi
-const char* ssid = "MOVITAR WIFI4792";         // 🔁 Reemplaza con el nombre de tu red WiFi
-const char* password = "98765432"; // 🔁 Reemplaza con tu contraseña WiFi
+const char* ssid = "TU RED WIFI"         // 🔁 Reemplaza con el nombre de tu red WiFi
+const char* password = "TU CONTRASEÑA"; // 🔁 Reemplaza con tu contraseña WiFi
 
 // URL del Apps Script desplegado (web app)
 const char* serverName = "TU API KEY";
